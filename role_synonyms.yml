@@ -1,0 +1,31 @@
+software_engineer:
+  - software engineer
+  - backend engineer
+  - devops engineer
+  - ai engineer
+  - full stack engineer
+  - platform engineer
+  - sde
+  - software developer
+  - fullstack
+  - full-stack
+
+ai_engineer:
+  - ai engineer
+  - machine learning engineer
+  - ml engineer
+  - llm engineer
+  - research engineer
+  - data scientist
+
+devops_engineer:
+  - devops engineer
+  - platform engineer
+  - site reliability engineer
+  - sre
+  - infrastructure engineer
+
+data_engineer:
+  - data engineer
+  - data scientist
+  - data analyst

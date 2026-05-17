@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ personal.name }} - Resume</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f5f7fa;
+      color: #1e293b;
+      padding: 20px;
+    }
+
+    .resume {
+      width: 850px;
+      height: 1100px;
+      margin: auto;
+      background: #ffffff;
+      padding: 34px 42px;
+      overflow: hidden;
+      border-top: 8px solid #1e3a5f;
+      box-shadow: 0 4px 18px rgba(0,0,0,0.08);
+    }
+
+    .header { margin-bottom: 14px; }
+
+    .name {
+      font-size: 30px;
+      font-weight: 700;
+      color: #1e3a5f;
+      margin-bottom: 4px;
+      letter-spacing: 0.4px;
+    }
+
+    .contact {
+      font-size: 12px;
+      color: #475569;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+    }
+
+    .section { margin-top: 14px; }
+
+    .section-title {
+      font-size: 14px;
+      font-weight: 700;
+      color: #1e3a5f;
+      text-transform: uppercase;
+      margin-bottom: 6px;
+      border-bottom: 2px solid #dbe4ee;
+      padding-bottom: 3px;
+      letter-spacing: 0.5px;
+    }
+
+    .summary-text {
+      font-size: 12.5px;
+      line-height: 1.5;
+      color: #334155;
+    }
+
+    .exp-item, .proj-item, .edu-item {
+      margin-bottom: 10px;
+    }
+
+    .top-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 20px;
+      margin-bottom: 2px;
+    }
+
+    .role, .proj-title, .degree {
+      font-size: 13px;
+      font-weight: 700;
+      color: #0f172a;
+    }
+
+    .company, .proj-tech, .college {
+      font-size: 12px;
+      color: #475569;
+      margin-top: 1px;
+    }
+
+    .date {
+      font-size: 11.5px;
+      color: #64748b;
+      white-space: nowrap;
+    }
+
+    ul { margin-left: 16px; margin-top: 3px; }
+
+    li {
+      font-size: 12px;
+      line-height: 1.4;
+      margin-bottom: 2px;
+      color: #334155;
+    }
+
+    .skill-line {
+      font-size: 12px;
+      line-height: 1.5;
+      color: #334155;
+    }
+
+    .label {
+      font-weight: 700;
+      color: #0f172a;
+    }
+
+    .links a { color: #1e3a5f; text-decoration: none; }
+
+    @media print {
+      body { background: white; padding: 0; }
+      .resume { box-shadow: none; margin: 0; }
+    }
+  </style>
+</head>
+<body>
+  <div class="resume">
+    <div class="header">
+      <div class="name">{{ personal.name }}</div>
+      <div class="contact">
+        <span>{{ personal.phone }}</span>
+        <span>|</span>
+        <span>{{ personal.email }}</span>
+        <span>|</span>
+        <span>{{ personal.location }}</span>
+        {% if personal.linkedin %}<span>|</span><span class="links"><a href="{{ personal.linkedin }}">LinkedIn</a></span>{% endif %}
+        {% if personal.github %}<span>|</span><span class="links"><a href="{{ personal.github }}">GitHub</a></span>{% endif %}
+        {% if personal.website %}<span>|</span><span class="links"><a href="{{ personal.website }}">Portfolio</a></span>{% endif %}
+      </div>
+    </div>
+
+    {% if summary %}
+    <div class="section">
+      <div class="section-title">Professional Summary</div>
+      <div class="summary-text">{{ summary }}</div>
+    </div>
+    {% endif %}
+
+    <div class="section">
+      <div class="section-title">Work Experience</div>
+      {% for job in experiences %}
+      <div class="exp-item">
+        <div class="top-row">
+          <div>
+            <div class="role">{{ job.role }}</div>
+            <div class="company">{{ job.company }}</div>
+          </div>
+          <div class="date">{{ job.period }}</div>
+        </div>
+        <ul>
+          {% for bullet in job.bullets %}
+          <li>{{ bullet }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="section">
+      <div class="section-title">Projects</div>
+      {% for proj in projects %}
+      <div class="proj-item">
+        <div class="top-row">
+          <div>
+            <div class="proj-title">{% if proj.link %}<a href="{{ proj.link }}">{{ proj.name }}</a>{% else %}{{ proj.name }}{% endif %}</div>
+          </div>
+        </div>
+        <ul>
+          {% for bullet in proj.bullets %}
+          <li>{{ bullet }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="section">
+      <div class="section-title">Skills</div>
+      {% for cat in skills %}
+      <div class="skill-line">
+        <span class="label">{{ cat.category }}:</span>
+        {{ cat.skills | join(', ') }}
+      </div>
+      {% endfor %}
+    </div>
+
+    <div class="section">
+      <div class="section-title">Education</div>
+      {% for edu in education %}
+      <div class="edu-item">
+        <div class="top-row">
+          <div>
+            <div class="degree">{{ edu.degree }}</div>
+            <div class="college">{{ edu.school }}{% if edu.period %} | {{ edu.period }}{% endif %}</div>
+          </div>
+          {% if edu.gpa %}<div class="date">GPA: {{ edu.gpa }}</div>{% endif %}
+        </div>
+        {% if edu.coursework %}
+        <div class="skill-line" style="margin-top:2px"><span class="label">Coursework:</span> {{ edu.coursework | join(', ') }}</div>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</body>
+</html>

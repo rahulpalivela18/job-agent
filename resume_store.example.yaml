@@ -1,0 +1,45 @@
+personal:
+  name: Your Name
+  email: your@email.com
+  phone: "+1234567890"
+  location: City, State
+  github: https://github.com/yourhandle
+  linkedin: https://linkedin.com/in/yourhandle
+  website: ""
+
+summary: Software Engineer experienced in ...
+
+work_experience:
+  - company: Company Name
+    role: Your Role
+    period: Month YYYY - Present
+    priority: high
+    tags: [tag1, tag2]
+    bullets:
+      - text: Bullet describing your achievement
+        tags: [tag1]
+      - text: Another bullet
+        tags: [tag2]
+
+projects:
+  - name: Project Name
+    tags: [tag1, tag2]
+    link: "https://..."
+    bullets:
+      - text: Bullet describing what you built
+        tags: [tag1]
+
+education:
+  - degree: Your Degree
+    school: University Name
+    period: Start - End
+    gpa: "X.XX"
+    coursework:
+      - Course 1
+      - Course 2
+
+skills:
+  - category: Languages
+    skills: [Python, JavaScript]
+  - category: Frameworks
+    skills: [React, Node.js]
