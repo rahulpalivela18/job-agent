@@ -2,7 +2,6 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 import json
-from huggingface_hub import InferenceClient
 import re
 
 
@@ -19,6 +18,8 @@ class LLM:
             self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
         elif provider == "hf":
+            from huggingface_hub import InferenceClient
+
             self.model = model or "openai/gpt-oss-120b"
             self.client = InferenceClient(
                 model=self.model, token=os.getenv("HF_API_KEY")
@@ -61,6 +62,7 @@ class LLM:
         Build the prompt for the LLM based on the resume and job description.
         """
 
+        desc = (job.get("description") or "")[:800]
         return f"""
 You are a job application assistant.
 
@@ -68,9 +70,9 @@ My Resume:
 {resume}
 
 Job:
-Title: {job["title"]}
-Company: {job["company"]}
-Description: {job["description"][:800]}
+Title: {job.get("title", "unknown")}
+Company: {job.get("company", "unknown")}
+Description: {desc}
 
 Return ONLY valid JSON.
 Do NOT explain anything.
@@ -107,11 +109,15 @@ Format:
         else:
             return "Unsupported provider"
 
+    def call(self, prompt, max_tokens=800):
+        return self._call_model(prompt, max_tokens)
+
     def score_job(self, resume, job):
         """
         Score how well the resume matches the job description.
         """
 
+        desc = (job.get("description") or "")[:800]
         prompt = f"""
 You are evaluating job fit.
 
@@ -129,9 +135,9 @@ Penalize:
 - non-engineering roles
 
 Job:
-Title: {job["title"]}
-Company: {job["company"]}
-Description: {job["description"][:800]}
+Title: {job.get("title", "unknown")}
+Company: {job.get("company", "unknown")}
+Description: {desc}
 
 Return ONLY valid JSON in this format:
 {{ "score": number }}

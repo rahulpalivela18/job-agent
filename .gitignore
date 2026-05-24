@@ -6,3 +6,4 @@ output/
 resume_store.yaml
 jobs.json
 .DS_Store
+.vscode/
