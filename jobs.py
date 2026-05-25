@@ -242,7 +242,11 @@ def _detect_ats(company_slug):
             continue
     for ats_name, fetcher, url_template in [
         ("lever", fetch_lever, "https://api.lever.co/v0/postings/{slug}"),
-        ("ashby", fetch_ashby, "https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true"),
+        (
+            "ashby",
+            fetch_ashby,
+            "https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true",
+        ),
     ]:
         try:
             r = requests.get(url_template.format(slug=company_slug), timeout=5)
