@@ -56,14 +56,10 @@ INDIA_ONLY_COMPANIES = [
     "axio",
     ("storable", "storable"),
     "nk securities",
-    "sony music entertainment india",
-    ("kulfi collective", "kulficollective"),
     "verona matchmaking",
     ("techgrove by banyan software", "techgrovebybanyansoftware"),
     ("blenheim chalcot india", "blenheimchalcotindia"),
     ("forbes & company limited", "forbes"),
-    "george p. johnson experience marketing",
-    "shubhashray housing india",
     ("tru fru", "trufru"),
     "one digital",
     "m0",
@@ -119,6 +115,13 @@ def fetch_ashby(company_slug, role_terms=None):
 
     except Exception:
         return
+
+
+GREENHOUSE_BOARD_URLS = [
+    "https://boards-api.greenhouse.io/v1/boards/{slug}/jobs",
+    "https://job-boards.greenhouse.io/{slug}",
+    "https://boards.greenhouse.io/{slug}",
+]
 
 
 def fetch_greenhouse(company_slug, role_terms=None):
@@ -230,14 +233,20 @@ def _fetch_with_source(company_slug, fetcher, role_terms):
 
 def _detect_ats(company_slug):
     """Probe which ATS a company uses (without role filter)."""
-    for ats_name, fetcher in [
-        ("greenhouse", fetch_greenhouse),
-        ("lever", fetch_lever),
-        ("ashby", fetch_ashby),
+    for probe_url in GREENHOUSE_BOARD_URLS:
+        try:
+            r = requests.get(probe_url.format(slug=company_slug), timeout=5)
+            if r.ok:
+                return ("greenhouse", fetch_greenhouse)
+        except Exception:
+            continue
+    for ats_name, fetcher, url_template in [
+        ("lever", fetch_lever, "https://api.lever.co/v0/postings/{slug}"),
+        ("ashby", fetch_ashby, "https://api.ashbyhq.com/posting-api/job-board/{slug}?includeCompensation=true"),
     ]:
         try:
-            probe = list(fetcher(company_slug, None))
-            if probe:
+            r = requests.get(url_template.format(slug=company_slug), timeout=5)
+            if r.ok:
                 return ats_name, fetcher
         except Exception:
             continue
