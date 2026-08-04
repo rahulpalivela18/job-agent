@@ -11,3 +11,7 @@ pyyaml>=6.0
 jinja2>=3.0.0
 playwright>=1.40.0
 ruff
+
+# Analysis / research report (analysis/ folder)
+numpy>=1.26.0
+matplotlib>=3.8.0

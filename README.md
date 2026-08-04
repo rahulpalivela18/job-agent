@@ -128,6 +128,20 @@ class AF,MI,RL,JL,SCRAPE,SCORE,PROCEED,KW,SUM,EXP,PRJ,RENDER,PDF,CL,SAVE,OPEN pr
 class DEDUP,JDOK,SENIOR decision;
 ```
 
+## Research Report
+
+`research_report.md` is an empirical case study of this pipeline: scoring
+validity, content personalization, and keyword-extractor quality, measured on
+the real application log (`jobs.json`) and a clearly-labeled synthetic corpus
+(`data/synthetic_jds.json`). Reproduce all figures and stats with:
+
+```bash
+pip install -r requirements.txt
+python analysis/analyze.py                     # real-data stats + charts
+python analysis/generate_synthetic_corpus.py 150 42
+python analysis/synthetic_benchmark.py         # synthetic benchmark
+```
+
 ## Setup
 
 ```bash
