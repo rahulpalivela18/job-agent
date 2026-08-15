@@ -70,3 +70,69 @@ class ResumeStore(BaseModel):
 
     def to_yaml_string(self) -> str:
         return yaml.dump(self.model_dump(), default_flow_style=False, sort_keys=False)
+
+    def to_text(self) -> str:
+        lines = []
+
+        p = self.personal
+        contact = f"Email: [{p.email}] | Phone: [{p.phone}] | GitHub: [{p.github}] | LinkedIn: [{p.linkedin}]"
+        lines.append(p.name)
+        lines.append(p.location)
+        lines.append(contact)
+
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+        lines.append("### SUMMARY")
+        lines.append("")
+        lines.append(self.summary)
+
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+        lines.append("### SKILLS")
+        lines.append("")
+        for cat in self.skills:
+            lines.append(f"**{cat.category}:** {', '.join(cat.skills)}")
+
+        lines.append("")
+        lines.append("---")
+        lines.append("")
+        lines.append("### WORK EXPERIENCE")
+        lines.append("")
+        for job in self.work_experience:
+            lines.append(f"**{job.role} — {job.company}**")
+            lines.append(job.period)
+            lines.append("")
+            for b in job.bullets:
+                lines.append(f"* {b.text}")
+            lines.append("")
+            lines.append("---")
+            lines.append("")
+
+        lines.append("### PROJECTS")
+        lines.append("")
+        for proj in self.projects:
+            lines.append(f"**{proj.name}**")
+            if proj.link:
+                lines.append(f"Link: {proj.link}")
+            lines.append("")
+            for b in proj.bullets:
+                lines.append(f"* {b.text}")
+            lines.append("")
+            lines.append("---")
+            lines.append("")
+
+        lines.append("### EDUCATION")
+        lines.append("")
+        for edu in self.education:
+            lines.append(f"**{edu.degree} — {edu.school}**")
+            if edu.gpa:
+                lines.append(f"GPA: {edu.gpa}")
+            lines.append("")
+            if edu.coursework:
+                lines.append("### COURSEWORK")
+                lines.append("")
+                lines.append(", ".join(edu.coursework))
+
+        return "\n".join(lines).strip()

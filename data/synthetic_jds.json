@@ -1,0 +1,1352 @@
+[
+ {
+  "id": "synth-0000",
+  "title": "backend engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/0",
+  "description": "Backend Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0001",
+  "title": "machine learning engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/1",
+  "description": "Machine Learning Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0002",
+  "title": "backend engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/2",
+  "description": "Backend Engineer at Lumenware\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0003",
+  "title": "backend engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/3",
+  "description": "Backend Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0004",
+  "title": "software engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/4",
+  "description": "Software Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0005",
+  "title": "machine learning engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/5",
+  "description": "Machine Learning Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0006",
+  "title": "data scientist \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/6",
+  "description": "Data Scientist at Nimbus Labs\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0007",
+  "title": "machine learning engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/7",
+  "description": "Machine Learning Engineer at Axis One\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0008",
+  "title": "platform engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/8",
+  "description": "Platform Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0009",
+  "title": "data scientist \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/9",
+  "description": "Data Scientist at Orbital Dynamics\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0010",
+  "title": "ai engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/10",
+  "description": "AI Engineer at Axis One\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0011",
+  "title": "data engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/11",
+  "description": "Data Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0012",
+  "title": "machine learning engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/12",
+  "description": "Machine Learning Engineer at Kindred Health\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0013",
+  "title": "backend engineer \u2014 stackhouse",
+  "company": "Stackhouse",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/13",
+  "description": "Backend Engineer at Stackhouse\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0014",
+  "title": "data engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/14",
+  "description": "Data Engineer at Kindred Health\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0015",
+  "title": "full stack engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/15",
+  "description": "Full Stack Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0016",
+  "title": "site reliability engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/16",
+  "description": "Site Reliability Engineer at Crestline AI\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0017",
+  "title": "backend engineer \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/17",
+  "description": "Backend Engineer at PolarGrid\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0018",
+  "title": "data scientist \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/18",
+  "description": "Data Scientist at Kindred Health\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0019",
+  "title": "machine learning engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/19",
+  "description": "Machine Learning Engineer at Axis One\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0020",
+  "title": "software engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/20",
+  "description": "Software Engineer at Lumenware\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0021",
+  "title": "full stack engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/21",
+  "description": "Full Stack Engineer at Crestline AI\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0022",
+  "title": "backend engineer \u2014 stackhouse",
+  "company": "Stackhouse",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/22",
+  "description": "Backend Engineer at Stackhouse\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0023",
+  "title": "devops engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "DevOps Engineer",
+  "url": "https://synthetic.example/23",
+  "description": "DevOps Engineer at Lumenware\n\nAbout the role\nWe are looking for a devops engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Automate build, test, and deployment pipelines.\n- Manage cloud infrastructure as code with Terraform.\n- Harden security and monitoring for production systems.\n- Support developer tooling and release processes.\n\nWhat we are looking for\n- Experience with Docker, Kubernetes, Terraform\n- Familiarity with GitHub Actions, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Docker, Kubernetes, Terraform, GitHub Actions, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0024",
+  "title": "ai engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/24",
+  "description": "AI Engineer at Kindred Health\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0025",
+  "title": "machine learning engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/25",
+  "description": "Machine Learning Engineer at Lumenware\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0026",
+  "title": "backend engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/26",
+  "description": "Backend Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0027",
+  "title": "site reliability engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/27",
+  "description": "Site Reliability Engineer at Axis One\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0028",
+  "title": "ai engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/28",
+  "description": "AI Engineer at Meridian Data\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0029",
+  "title": "full stack engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/29",
+  "description": "Full Stack Engineer at Lumenware\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0030",
+  "title": "machine learning engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/30",
+  "description": "Machine Learning Engineer at Lumenware\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0031",
+  "title": "software engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/31",
+  "description": "Software Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0032",
+  "title": "data engineer \u2014 stackhouse",
+  "company": "Stackhouse",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/32",
+  "description": "Data Engineer at Stackhouse\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0033",
+  "title": "backend engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/33",
+  "description": "Backend Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0034",
+  "title": "data engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/34",
+  "description": "Data Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0035",
+  "title": "platform engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/35",
+  "description": "Platform Engineer at Lumenware\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0036",
+  "title": "ai engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/36",
+  "description": "AI Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0037",
+  "title": "machine learning engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/37",
+  "description": "Machine Learning Engineer at Axis One\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0038",
+  "title": "site reliability engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/38",
+  "description": "Site Reliability Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0039",
+  "title": "platform engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/39",
+  "description": "Platform Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0040",
+  "title": "data engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/40",
+  "description": "Data Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0041",
+  "title": "site reliability engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/41",
+  "description": "Site Reliability Engineer at Meridian Data\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0042",
+  "title": "software engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/42",
+  "description": "Software Engineer at Crestline AI\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0043",
+  "title": "ai engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/43",
+  "description": "AI Engineer at Lumenware\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0044",
+  "title": "data scientist \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/44",
+  "description": "Data Scientist at Crestline AI\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0045",
+  "title": "platform engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/45",
+  "description": "Platform Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0046",
+  "title": "site reliability engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/46",
+  "description": "Site Reliability Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0047",
+  "title": "software engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/47",
+  "description": "Software Engineer at Lumenware\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0048",
+  "title": "site reliability engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/48",
+  "description": "Site Reliability Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0049",
+  "title": "backend engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/49",
+  "description": "Backend Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0050",
+  "title": "ai engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/50",
+  "description": "AI Engineer at Meridian Data\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0051",
+  "title": "full stack engineer \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/51",
+  "description": "Full Stack Engineer at PolarGrid\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0052",
+  "title": "site reliability engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/52",
+  "description": "Site Reliability Engineer at Crestline AI\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0053",
+  "title": "site reliability engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/53",
+  "description": "Site Reliability Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0054",
+  "title": "ai engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/54",
+  "description": "AI Engineer at Kindred Health\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0055",
+  "title": "site reliability engineer \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/55",
+  "description": "Site Reliability Engineer at PolarGrid\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0056",
+  "title": "data scientist \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/56",
+  "description": "Data Scientist at Kindred Health\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0057",
+  "title": "software engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/57",
+  "description": "Software Engineer at Crestline AI\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0058",
+  "title": "full stack engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/58",
+  "description": "Full Stack Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0059",
+  "title": "machine learning engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/59",
+  "description": "Machine Learning Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0060",
+  "title": "backend engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/60",
+  "description": "Backend Engineer at Axis One\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0061",
+  "title": "backend engineer \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/61",
+  "description": "Backend Engineer at PolarGrid\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0062",
+  "title": "ai engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/62",
+  "description": "AI Engineer at Lumenware\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0063",
+  "title": "site reliability engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/63",
+  "description": "Site Reliability Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0064",
+  "title": "site reliability engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/64",
+  "description": "Site Reliability Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0065",
+  "title": "machine learning engineer \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/65",
+  "description": "Machine Learning Engineer at PolarGrid\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0066",
+  "title": "full stack engineer \u2014 stackhouse",
+  "company": "Stackhouse",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/66",
+  "description": "Full Stack Engineer at Stackhouse\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0067",
+  "title": "devops engineer \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "DevOps Engineer",
+  "url": "https://synthetic.example/67",
+  "description": "DevOps Engineer at PolarGrid\n\nAbout the role\nWe are looking for a devops engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Automate build, test, and deployment pipelines.\n- Manage cloud infrastructure as code with Terraform.\n- Harden security and monitoring for production systems.\n- Support developer tooling and release processes.\n\nWhat we are looking for\n- Experience with Docker, Kubernetes, Terraform\n- Familiarity with GitHub Actions, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Docker, Kubernetes, Terraform, GitHub Actions, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0068",
+  "title": "backend engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/68",
+  "description": "Backend Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0069",
+  "title": "backend engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/69",
+  "description": "Backend Engineer at Kindred Health\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0070",
+  "title": "data scientist \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/70",
+  "description": "Data Scientist at PolarGrid\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0071",
+  "title": "data scientist \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/71",
+  "description": "Data Scientist at Vantage Systems\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0072",
+  "title": "backend engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/72",
+  "description": "Backend Engineer at Axis One\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0073",
+  "title": "machine learning engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/73",
+  "description": "Machine Learning Engineer at Crestline AI\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0074",
+  "title": "data engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/74",
+  "description": "Data Engineer at Crestline AI\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0075",
+  "title": "machine learning engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/75",
+  "description": "Machine Learning Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0076",
+  "title": "machine learning engineer \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/76",
+  "description": "Machine Learning Engineer at PolarGrid\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0077",
+  "title": "data scientist \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/77",
+  "description": "Data Scientist at Cobalt Robotics\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0078",
+  "title": "machine learning engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/78",
+  "description": "Machine Learning Engineer at Meridian Data\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0079",
+  "title": "machine learning engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/79",
+  "description": "Machine Learning Engineer at Crestline AI\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0080",
+  "title": "platform engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/80",
+  "description": "Platform Engineer at Kindred Health\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0081",
+  "title": "platform engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/81",
+  "description": "Platform Engineer at Meridian Data\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0082",
+  "title": "backend engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/82",
+  "description": "Backend Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0083",
+  "title": "data engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/83",
+  "description": "Data Engineer at Crestline AI\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0084",
+  "title": "machine learning engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/84",
+  "description": "Machine Learning Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0085",
+  "title": "devops engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "DevOps Engineer",
+  "url": "https://synthetic.example/85",
+  "description": "DevOps Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a devops engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Automate build, test, and deployment pipelines.\n- Manage cloud infrastructure as code with Terraform.\n- Harden security and monitoring for production systems.\n- Support developer tooling and release processes.\n\nWhat we are looking for\n- Experience with Docker, Kubernetes, Terraform\n- Familiarity with GitHub Actions, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Docker, Kubernetes, Terraform, GitHub Actions, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0086",
+  "title": "ai engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/86",
+  "description": "AI Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0087",
+  "title": "machine learning engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/87",
+  "description": "Machine Learning Engineer at Crestline AI\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0088",
+  "title": "site reliability engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/88",
+  "description": "Site Reliability Engineer at Crestline AI\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0089",
+  "title": "site reliability engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/89",
+  "description": "Site Reliability Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0090",
+  "title": "machine learning engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/90",
+  "description": "Machine Learning Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0091",
+  "title": "devops engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "DevOps Engineer",
+  "url": "https://synthetic.example/91",
+  "description": "DevOps Engineer at Meridian Data\n\nAbout the role\nWe are looking for a devops engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Automate build, test, and deployment pipelines.\n- Manage cloud infrastructure as code with Terraform.\n- Harden security and monitoring for production systems.\n- Support developer tooling and release processes.\n\nWhat we are looking for\n- Experience with Docker, Kubernetes, Terraform\n- Familiarity with GitHub Actions, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Docker, Kubernetes, Terraform, GitHub Actions, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0092",
+  "title": "platform engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/92",
+  "description": "Platform Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0093",
+  "title": "platform engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/93",
+  "description": "Platform Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0094",
+  "title": "full stack engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/94",
+  "description": "Full Stack Engineer at Meridian Data\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0095",
+  "title": "platform engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/95",
+  "description": "Platform Engineer at Axis One\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0096",
+  "title": "devops engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "DevOps Engineer",
+  "url": "https://synthetic.example/96",
+  "description": "DevOps Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a devops engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Automate build, test, and deployment pipelines.\n- Manage cloud infrastructure as code with Terraform.\n- Harden security and monitoring for production systems.\n- Support developer tooling and release processes.\n\nWhat we are looking for\n- Experience with Docker, Kubernetes, Terraform\n- Familiarity with GitHub Actions, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Docker, Kubernetes, Terraform, GitHub Actions, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0097",
+  "title": "full stack engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/97",
+  "description": "Full Stack Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0098",
+  "title": "data scientist \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/98",
+  "description": "Data Scientist at Axis One\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0099",
+  "title": "software engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/99",
+  "description": "Software Engineer at Axis One\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0100",
+  "title": "software engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/100",
+  "description": "Software Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0101",
+  "title": "devops engineer \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "DevOps Engineer",
+  "url": "https://synthetic.example/101",
+  "description": "DevOps Engineer at PolarGrid\n\nAbout the role\nWe are looking for a devops engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Automate build, test, and deployment pipelines.\n- Manage cloud infrastructure as code with Terraform.\n- Harden security and monitoring for production systems.\n- Support developer tooling and release processes.\n\nWhat we are looking for\n- Experience with Docker, Kubernetes, Terraform\n- Familiarity with GitHub Actions, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Docker, Kubernetes, Terraform, GitHub Actions, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0102",
+  "title": "ai engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/102",
+  "description": "AI Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0103",
+  "title": "backend engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/103",
+  "description": "Backend Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0104",
+  "title": "data scientist \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/104",
+  "description": "Data Scientist at Crestline AI\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0105",
+  "title": "platform engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/105",
+  "description": "Platform Engineer at Crestline AI\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0106",
+  "title": "machine learning engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/106",
+  "description": "Machine Learning Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0107",
+  "title": "software engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/107",
+  "description": "Software Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0108",
+  "title": "platform engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/108",
+  "description": "Platform Engineer at Lumenware\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0109",
+  "title": "data scientist \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/109",
+  "description": "Data Scientist at PolarGrid\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0110",
+  "title": "full stack engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/110",
+  "description": "Full Stack Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0111",
+  "title": "machine learning engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/111",
+  "description": "Machine Learning Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0112",
+  "title": "ai engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/112",
+  "description": "AI Engineer at Lumenware\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0113",
+  "title": "devops engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "DevOps Engineer",
+  "url": "https://synthetic.example/113",
+  "description": "DevOps Engineer at Kindred Health\n\nAbout the role\nWe are looking for a devops engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Automate build, test, and deployment pipelines.\n- Manage cloud infrastructure as code with Terraform.\n- Harden security and monitoring for production systems.\n- Support developer tooling and release processes.\n\nWhat we are looking for\n- Experience with Docker, Kubernetes, Terraform\n- Familiarity with GitHub Actions, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Docker, Kubernetes, Terraform, GitHub Actions, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0114",
+  "title": "software engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/114",
+  "description": "Software Engineer at Meridian Data\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0115",
+  "title": "data scientist \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/115",
+  "description": "Data Scientist at Crestline AI\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0116",
+  "title": "site reliability engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/116",
+  "description": "Site Reliability Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0117",
+  "title": "full stack engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/117",
+  "description": "Full Stack Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0118",
+  "title": "backend engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/118",
+  "description": "Backend Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0119",
+  "title": "full stack engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/119",
+  "description": "Full Stack Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0120",
+  "title": "site reliability engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/120",
+  "description": "Site Reliability Engineer at Axis One\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0121",
+  "title": "data scientist \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/121",
+  "description": "Data Scientist at Lumenware\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0122",
+  "title": "software engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/122",
+  "description": "Software Engineer at Lumenware\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0123",
+  "title": "full stack engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/123",
+  "description": "Full Stack Engineer at Lumenware\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0124",
+  "title": "ai engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/124",
+  "description": "AI Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0125",
+  "title": "backend engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/125",
+  "description": "Backend Engineer at Axis One\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0126",
+  "title": "ai engineer \u2014 orbital dynamics",
+  "company": "Orbital Dynamics",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/126",
+  "description": "AI Engineer at Orbital Dynamics\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0127",
+  "title": "data scientist \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/127",
+  "description": "Data Scientist at Vantage Systems\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0128",
+  "title": "machine learning engineer \u2014 lumenware",
+  "company": "Lumenware",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/128",
+  "description": "Machine Learning Engineer at Lumenware\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0129",
+  "title": "site reliability engineer \u2014 meridian data",
+  "company": "Meridian Data",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/129",
+  "description": "Site Reliability Engineer at Meridian Data\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0130",
+  "title": "software engineer \u2014 crestline ai",
+  "company": "Crestline AI",
+  "role_family": "Software Engineer",
+  "url": "https://synthetic.example/130",
+  "description": "Software Engineer at Crestline AI\n\nAbout the role\nWe are looking for a software engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Design, build, and ship production-grade backend services.\n- Collaborate with product and design to deliver features end to end.\n- Write clean, tested, maintainable code with code reviews.\n- Diagnose and fix production issues with on-call rotations.\n\nWhat we are looking for\n- Experience with Python, Java, SQL\n- Familiarity with REST APIs, Microservices\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Java, SQL, REST APIs, Microservices.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0131",
+  "title": "full stack engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/131",
+  "description": "Full Stack Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0132",
+  "title": "data engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/132",
+  "description": "Data Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0133",
+  "title": "ai engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "AI Engineer",
+  "url": "https://synthetic.example/133",
+  "description": "AI Engineer at Axis One\n\nAbout the role\nWe are looking for a ai engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Develop LLM-powered features including retrieval-augmented generation.\n- Evaluate and fine-tune models for quality and cost.\n- Build evaluation pipelines and guardrails for model output.\n- Integrate LLM APIs with product surfaces.\n\nWhat we are looking for\n- Experience with Python, LLMs, PyTorch\n- Familiarity with RAG, Vector Databases\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, LLMs, PyTorch, RAG, Vector Databases.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0134",
+  "title": "site reliability engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/134",
+  "description": "Site Reliability Engineer at Axis One\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0135",
+  "title": "site reliability engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/135",
+  "description": "Site Reliability Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0136",
+  "title": "backend engineer \u2014 axis one",
+  "company": "Axis One",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/136",
+  "description": "Backend Engineer at Axis One\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0137",
+  "title": "site reliability engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Site Reliability Engineer",
+  "url": "https://synthetic.example/137",
+  "description": "Site Reliability Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a site reliability engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 2-4 years of relevant experience.\n\nWhat you will do\n- Own reliability, SLOs, and incident response for core services.\n- Build monitoring, alerting, and capacity planning.\n- Drive postmortems and reliability improvements.\n- Automate operational toil.\n\nWhat we are looking for\n- Experience with Kubernetes, Grafana, Prometheus\n- Familiarity with SLOs, Incident Response\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Grafana, Prometheus, SLOs, Incident Response.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0138",
+  "title": "data scientist \u2014 polargrid",
+  "company": "PolarGrid",
+  "role_family": "Data Scientist",
+  "url": "https://synthetic.example/138",
+  "description": "Data Scientist at PolarGrid\n\nAbout the role\nWe are looking for a data scientist to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Analyze user behavior and product data to guide decisions.\n- Design and analyze A/B tests.\n- Build and validate statistical and ML models.\n- Communicate findings to product and engineering teams.\n\nWhat we are looking for\n- Experience with Python, Pandas, SQL\n- Familiarity with Statistical Modeling, A/B Testing\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Pandas, SQL, Statistical Modeling, A/B Testing.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0139",
+  "title": "platform engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/139",
+  "description": "Platform Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0140",
+  "title": "full stack engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/140",
+  "description": "Full Stack Engineer at Kindred Health\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0141",
+  "title": "data engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/141",
+  "description": "Data Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0142",
+  "title": "backend engineer \u2014 kindred health",
+  "company": "Kindred Health",
+  "role_family": "Backend Engineer",
+  "url": "https://synthetic.example/142",
+  "description": "Backend Engineer at Kindred Health\n\nAbout the role\nWe are looking for a backend engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-2 years of relevant experience.\n\nWhat you will do\n- Build and scale distributed systems serving millions of requests.\n- Design APIs and event-driven data pipelines.\n- Optimize database queries and system latency.\n- Own services from design through monitoring and on-call.\n\nWhat we are looking for\n- Experience with Python, Go, PostgreSQL\n- Familiarity with Kafka, Distributed Systems\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Go, PostgreSQL, Kafka, Distributed Systems.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0143",
+  "title": "platform engineer \u2014 cobalt robotics",
+  "company": "Cobalt Robotics",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/143",
+  "description": "Platform Engineer at Cobalt Robotics\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0144",
+  "title": "machine learning engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/144",
+  "description": "Machine Learning Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0145",
+  "title": "platform engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/145",
+  "description": "Platform Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0146",
+  "title": "data engineer \u2014 stackhouse",
+  "company": "Stackhouse",
+  "role_family": "Data Engineer",
+  "url": "https://synthetic.example/146",
+  "description": "Data Engineer at Stackhouse\n\nAbout the role\nWe are looking for a data engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 1-3 years of relevant experience.\n\nWhat you will do\n- Build and maintain scalable ETL/ELT data pipelines.\n- Model warehouse tables and ensure data quality.\n- Orchestrate workflows with Airflow.\n- Optimize query performance across large datasets.\n\nWhat we are looking for\n- Experience with Python, Spark, Airflow\n- Familiarity with Snowflake, ETL\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, Spark, Airflow, Snowflake, ETL.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0147",
+  "title": "full stack engineer \u2014 fathom analytics",
+  "company": "Fathom Analytics",
+  "role_family": "Full Stack Engineer",
+  "url": "https://synthetic.example/147",
+  "description": "Full Stack Engineer at Fathom Analytics\n\nAbout the role\nWe are looking for a full stack engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-2 years of relevant experience.\n\nWhat you will do\n- Ship features across React frontend and Node.js backend.\n- Design data models and REST/GraphQL APIs.\n- Improve performance, accessibility, and test coverage.\n- Work closely with product, design, and infra teams.\n\nWhat we are looking for\n- Experience with React, TypeScript, Node.js\n- Familiarity with PostgreSQL, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: React, TypeScript, Node.js, PostgreSQL, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0148",
+  "title": "platform engineer \u2014 nimbus labs",
+  "company": "Nimbus Labs",
+  "role_family": "Platform Engineer",
+  "url": "https://synthetic.example/148",
+  "description": "Platform Engineer at Nimbus Labs\n\nAbout the role\nWe are looking for a platform engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Maintain Kubernetes-based infrastructure and tooling.\n- Automate deployments with Terraform and CI/CD pipelines.\n- Reduce developer friction with internal developer platform.\n- Improve observability and incident response.\n\nWhat we are looking for\n- Experience with Kubernetes, Terraform, CI/CD\n- Familiarity with Go, AWS\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Kubernetes, Terraform, CI/CD, Go, AWS.",
+  "synthetic": true
+ },
+ {
+  "id": "synth-0149",
+  "title": "machine learning engineer \u2014 vantage systems",
+  "company": "Vantage Systems",
+  "role_family": "Machine Learning Engineer",
+  "url": "https://synthetic.example/149",
+  "description": "Machine Learning Engineer at Vantage Systems\n\nAbout the role\nWe are looking for a machine learning engineer to join our team building products used by millions.\nThis is an early-career role. Candidates should have 0-1 years of relevant experience.\n\nWhat you will do\n- Train and evaluate models on large-scale datasets.\n- Own the ML lifecycle from experimentation to production deployment.\n- Build feature stores and automated retraining pipelines.\n- Monitor model drift and quality in production.\n\nWhat we are looking for\n- Experience with Python, PyTorch, scikit-learn\n- Familiarity with Feature Engineering, MLOps\n- Strong problem-solving and communication skills\n- A collaborative, product-minded approach\n\nNice to have\n- Experience with cloud platforms and CI/CD\n- Prior internship or project experience\n- Interest in reliability, quality, and testing\n\nOur stack: Python, PyTorch, scikit-learn, Feature Engineering, MLOps.",
+  "synthetic": true
+ }
+]

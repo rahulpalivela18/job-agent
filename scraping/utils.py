@@ -25,22 +25,23 @@ def min_yoe_required(jd_text: str) -> int:
     return 0
 
 
-def is_senior_role(jd_text: str) -> bool:
-    """
-    Call llm to check if the JD is for a senior role or not
-    """
+def is_senior_role(jd_text: str, llm=None) -> bool:
+    """Check if a JD is for a senior role — regex first, LLM fallback."""
 
-    llm = LLM()
+    yoe = min_yoe_required(jd_text)
+    if yoe >= 3:
+        return True
 
-    min_yoe_val = "less than 3 years of experience"  # change to your recommended val
+    if yoe > 0:
+        return False
 
-    prompt = f"""
-Given the following job description, determine if this role is for a position that requires {min_yoe_val} or not. Return only "yes" if it is else return "No".
+    if llm is None:
+        llm = LLM()
 
-Job Description: 
-{jd_text}
-    """
+    experience = 2.5
 
-    response = llm.call(prompt)
+    prompt = f"""Given the job description below, return only "yes" if it requires {experience}+ years of experience, otherwise "no".
+Job Description: {jd_text[:1500]}"""
 
-    return not (response.strip().lower() == "yes")
+    response = llm.call(prompt, max_tokens=10)
+    return response.strip().lower() == "yes"
