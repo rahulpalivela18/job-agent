@@ -9,13 +9,26 @@ load_dotenv()
 
 
 class LLM:
-    def __init__(self, provider="openai", model=None):
+    def __init__(self, provider="openrouter", model=None):
         self.provider = provider
         self.model = model
 
         if provider == "openai":
             self.model = model or "gpt-4.1-mini"
             self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+
+        elif provider == "openrouter":
+            self.model = model or "openai/gpt-4o-mini"
+            self.client = OpenAI(
+                api_key=os.getenv("OPENROUTER_API_KEY"),
+                base_url="https://openrouter.ai/api/v1",
+                default_headers={
+                    "HTTP-Referer": os.getenv(
+                        "OPENROUTER_SITE_URL", "https://github.com/anomalyco/job-agent"
+                    ),
+                    "X-Title": os.getenv("OPENROUTER_APP_NAME", "job-agent"),
+                },
+            )
 
         elif provider == "hf":
             from huggingface_hub import InferenceClient
@@ -102,7 +115,7 @@ Format:
         return response.choices[0].message.content
 
     def _call_model(self, prompt, max_tokens=800):
-        if self.provider == "openai":
+        if self.provider in ("openai", "openrouter"):
             return self._call_openai(prompt, max_tokens)
         elif self.provider == "hf":
             return self._call_hf(prompt, max_tokens)

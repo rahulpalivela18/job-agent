@@ -218,7 +218,7 @@ def build_resume(
     if store is None:
         store = ResumeStore.from_yaml("resume_store.yaml")
     if llm is None:
-        llm = LLM(provider="openai")
+        llm = LLM(provider="openrouter")
 
     company_slug = company or "company"
 

@@ -2,7 +2,7 @@ from jobs import fetch_jobs
 from storage import save_job, is_already_applied
 from manual_input import add_manual_job
 from scraping.basic_scrape_jd import scrape_jd
-from scraping.utils import min_yoe_required, is_senior_role
+from scraping.utils import is_senior_role
 from resume_builder import build_resume
 from resume_models import ResumeStore
 import webbrowser
@@ -46,8 +46,12 @@ def main(llm):
         jd_text = job.get("description", "")
         if not jd_text or len(jd_text) < 100:
             try:
-                jd_text = scrape_jd(job["url"])
-                job["description"] = jd_text
+                scraped = scrape_jd(job["url"], llm=llm)
+                if scraped:
+                    job.update(
+                        {k: v for k, v in scraped.items() if v and v != "Unknown"}
+                    )
+                    jd_text = job.get("description", "")
             except Exception:
                 pass
 
@@ -137,5 +141,5 @@ def main(llm):
 
 
 if __name__ == "__main__":
-    llm = LLM(provider="openai", model="gpt-4.1-mini")
+    llm = LLM(provider="openrouter")
     main(llm)

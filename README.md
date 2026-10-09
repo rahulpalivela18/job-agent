@@ -147,8 +147,12 @@ python analysis/synthetic_benchmark.py         # synthetic benchmark
 ```bash
 pip install -r requirements.txt
 playwright install chromium
-cp .env.example .env   # fill in OPENAI_API_KEY
+cp .env.example .env   # fill in OPENROUTER_API_KEY (default provider)
 ```
+
+Default LLM provider is **OpenRouter** (`openai/gpt-4o-mini`), which is OpenAI-compatible
+and cheap. Override per-run with `LLM(provider="openrouter", model="<model-id>")`;
+`openai` and `hf` providers are also supported.
 
 Prepare your data in `resume_store.yaml` (see `resume_store.example.yaml` for structure).
 
@@ -175,7 +179,7 @@ Choose mode:
 | `manual_input.py` | URL scrape + multi-line description paste (Ctrl+D) |
 | `scraping/jd_processing.py` | Keyword extraction, tag-based scoring, YOE regex |
 | `scraping/utils.py` | `is_senior_role()` LLM check |
-| `scraping/basic_scrape_jd.py` | BS4-based JD scraper |
+| `scraping/basic_scrape_jd.py` | Multi-strategy JD scraper: ATS APIs (Greenhouse/Lever/Ashby/SmartRecruiters), JSON-LD, iframe follow, Playwright render, LLM fallback |
 | `templates/resume_template.html` | Jinja2 resume template (850×1100px fixed) |
 | `role_synonyms.yml` | Role → title synonyms for query expansion |
 | `resume_store.yaml` | Structured resume data (gitignored) |
