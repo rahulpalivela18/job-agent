@@ -1,4 +1,4 @@
-from jobs import fetch_jobs
+from jobs import fetch_jobs, fetch_remote
 from storage import save_job, is_already_applied
 from manual_input import add_manual_job
 from scraping.basic_scrape_jd import scrape_jd
@@ -30,8 +30,17 @@ def main(llm):
                 break
     else:
         role = input("Enter the job role you are interested in: ")
-        india = input("India jobs only? (Y/n): ").strip().lower()
-        jobs = fetch_jobs(role, india_only=india not in ("n", "no"))
+        kind = input("Remote worldwide only? (Y/n): ").strip().lower()
+        if kind not in ("n", "no"):
+            worldwide = input(
+                "Worldwide-only (anywhere in world)? (Y/n): "
+            ).strip().lower()
+            jobs = fetch_remote(
+                role, worldwide_only=worldwide not in ("n", "no")
+            )
+        else:
+            india = input("India jobs only? (Y/n): ").strip().lower()
+            jobs = fetch_jobs(role, india_only=india not in ("n", "no"))
 
     max_jobs = 50
     count = 0
