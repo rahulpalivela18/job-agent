@@ -171,7 +171,7 @@ Choose mode:
 | File | Role |
 |---|---|
 | `main.py` | CLI entry point, orchestrates fetch → filter → build → apply |
-| `jobs.py` | ATS fetchers (Greenhouse, Lever, Ashby) + role synonym expansion |
+| `jobs.py` | ATS fetchers (Greenhouse, Lever, Ashby) + remote-native boards (Himalayas, WeWorkRemotely) + role synonym expansion |
 | `resume_builder.py` | Core pipeline: keyword match → AI tailoring → template → PDF |
 | `resume_models.py` | Pydantic schemas for the YAML store |
 | `llm.py` | LLM wrapper: scoring, summary tailoring, bullet reordering, cover letters |

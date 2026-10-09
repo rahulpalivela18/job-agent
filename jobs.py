@@ -1,6 +1,9 @@
 import requests
 import yaml
 import os
+import xml.etree.ElementTree as ET
+
+from scraping.basic_scrape_jd import _html_to_text
 
 ROLE_SYNONYMS = {}
 _syn_path = os.path.join(os.path.dirname(__file__), "role_synonyms.yml")
@@ -215,6 +218,124 @@ def fetch_lever(company_slug, role_terms=None):
         return
 
 
+# ---------------------------------------------------------------------------
+# Remote-first job boards (aggregators that are remote-native)
+# ---------------------------------------------------------------------------
+
+UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+)
+
+SENIOR_TITLE_KEYWORDS = (
+    "senior",
+    "lead",
+    "staff",
+    "principal",
+    "manager",
+    "director",
+    "head of",
+)
+
+
+def _is_senior_title(title):
+    return any(kw in title for kw in SENIOR_TITLE_KEYWORDS)
+
+
+def fetch_himalayas(role_terms=None, max_pages=10):
+    """Remote-only jobs from the Himalayas public API.
+
+    The API returns 20 jobs per cursor page and ignores search/filter params,
+    so we page through a bounded number of recent pages and filter locally.
+    """
+    jobs = []
+    params = {}
+    for _ in range(max_pages):
+        try:
+            resp = requests.get(
+                "https://himalayas.app/jobs/api",
+                params=params,
+                headers={"User-Agent": UA},
+                timeout=20,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception:
+            break
+
+        for job in data.get("jobs", []):
+            title = (job.get("title") or "").lower()
+            if not title or _is_senior_title(title):
+                continue
+            if role_terms and not any(term in title for term in role_terms):
+                continue
+            restrictions = job.get("locationRestrictions") or []
+            location = (
+                ", ".join(restrictions)
+                if isinstance(restrictions, list)
+                else restrictions
+            )
+            jobs.append(
+                {
+                    "title": title,
+                    "company": job.get("companyName")
+                    or job.get("companySlug")
+                    or "Unknown",
+                    "url": job.get("applicationLink") or job.get("guid") or "",
+                    "description": _html_to_text(job.get("description") or ""),
+                    "location": location or "Remote",
+                    "source": "himalayas",
+                }
+            )
+
+        cursor = data.get("nextCursor")
+        if not cursor:
+            break
+        params = {"cursor": cursor}
+
+    return jobs
+
+
+WWR_FEEDS = {
+    "programming": "https://weworkremotely.com/categories/remote-programming-jobs.rss",
+    "all": "https://weworkremotely.com/remote-jobs.rss",
+}
+
+
+def fetch_weworkremotely(role_terms=None, feed="programming"):
+    """Remote-only jobs from We Work Remotely RSS feeds."""
+    url = WWR_FEEDS.get(feed, WWR_FEEDS["programming"])
+    try:
+        resp = requests.get(url, headers={"User-Agent": UA}, timeout=20)
+        resp.raise_for_status()
+        root = ET.fromstring(resp.content)
+    except Exception:
+        return []
+
+    jobs = []
+    for item in root.iter("item"):
+        raw_title = (item.findtext("title") or "").strip()
+        company, _, title = raw_title.partition(": ")
+        if not title:
+            title, company = raw_title, "Unknown"
+        title_l = title.lower()
+        if not title_l or _is_senior_title(title_l):
+            continue
+        if role_terms and not any(term in title_l for term in role_terms):
+            continue
+        jobs.append(
+            {
+                "title": title,
+                "company": company or "Unknown",
+                "url": item.findtext("link") or item.findtext("guid") or "",
+                "description": _html_to_text(item.findtext("description") or ""),
+                "location": item.findtext("region") or "Remote",
+                "source": "weworkremotely",
+            }
+        )
+    return jobs
+
+
 def _resolve_company(entry):
     """Normalise a COMPANIES entry into (display_name, api_slug)."""
     if isinstance(entry, (list, tuple)):
@@ -257,13 +378,28 @@ def _detect_ats(company_slug):
     return None, None
 
 
-def fetch_jobs(role=None, max_jobs=30, india_only=False):
-    """Auto-detect ATS for each company and fetch matching jobs."""
+def fetch_jobs(role=None, max_jobs=30, india_only=False, remote_only=False):
+    """Auto-detect ATS for each company and fetch matching jobs.
+
+    Remote-native boards (Himalayas, WeWorkRemotely) are fetched first so
+    remote roles survive the ``max_jobs`` slice. Pass ``remote_only=True``
+    to skip company ATS boards entirely.
+    """
     jobs = []
     role_terms = _expand_role(role)
     company_list = INDIA_ONLY_COMPANIES if india_only else COMPANIES
 
-    for entry in company_list:
+    if not india_only:
+        for name, fetcher in (
+            ("Himalayas", fetch_himalayas),
+            ("WeWorkRemotely", fetch_weworkremotely),
+        ):
+            found = fetcher(role_terms)
+            if found:
+                print(f"  {name:>15} → {len(found)} remote jobs")
+                jobs.extend(found)
+
+    for entry in [] if remote_only else company_list:
         name, slug = _resolve_company(entry)
         ats_name, fetcher = _detect_ats(slug)
         if not fetcher:
