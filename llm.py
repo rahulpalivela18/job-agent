@@ -2,7 +2,6 @@ import os
 from dotenv import load_dotenv
 from openai import OpenAI
 import json
-from huggingface_hub import InferenceClient
 import re
 
 
@@ -10,7 +9,7 @@ load_dotenv()
 
 
 class LLM:
-    def __init__(self, provider="openai", model=None):
+    def __init__(self, provider="openrouter", model=None):
         self.provider = provider
         self.model = model
 
@@ -18,7 +17,22 @@ class LLM:
             self.model = model or "gpt-4.1-mini"
             self.client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
+        elif provider == "openrouter":
+            self.model = model or "openai/gpt-4o-mini"
+            self.client = OpenAI(
+                api_key=os.getenv("OPENROUTER_API_KEY"),
+                base_url="https://openrouter.ai/api/v1",
+                default_headers={
+                    "HTTP-Referer": os.getenv(
+                        "OPENROUTER_SITE_URL", "https://github.com/anomalyco/job-agent"
+                    ),
+                    "X-Title": os.getenv("OPENROUTER_APP_NAME", "job-agent"),
+                },
+            )
+
         elif provider == "hf":
+            from huggingface_hub import InferenceClient
+
             self.model = model or "openai/gpt-oss-120b"
             self.client = InferenceClient(
                 model=self.model, token=os.getenv("HF_API_KEY")
@@ -61,6 +75,7 @@ class LLM:
         Build the prompt for the LLM based on the resume and job description.
         """
 
+        desc = (job.get("description") or "")[:800]
         return f"""
 You are a job application assistant.
 
@@ -68,9 +83,9 @@ My Resume:
 {resume}
 
 Job:
-Title: {job["title"]}
-Company: {job["company"]}
-Description: {job["description"][:800]}
+Title: {job.get("title", "unknown")}
+Company: {job.get("company", "unknown")}
+Description: {desc}
 
 Return ONLY valid JSON.
 Do NOT explain anything.
@@ -100,18 +115,22 @@ Format:
         return response.choices[0].message.content
 
     def _call_model(self, prompt, max_tokens=800):
-        if self.provider == "openai":
+        if self.provider in ("openai", "openrouter"):
             return self._call_openai(prompt, max_tokens)
         elif self.provider == "hf":
             return self._call_hf(prompt, max_tokens)
         else:
             return "Unsupported provider"
 
+    def call(self, prompt, max_tokens=800):
+        return self._call_model(prompt, max_tokens)
+
     def score_job(self, resume, job):
         """
         Score how well the resume matches the job description.
         """
 
+        desc = (job.get("description") or "")[:800]
         prompt = f"""
 You are evaluating job fit.
 
@@ -129,9 +148,9 @@ Penalize:
 - non-engineering roles
 
 Job:
-Title: {job["title"]}
-Company: {job["company"]}
-Description: {job["description"][:800]}
+Title: {job.get("title", "unknown")}
+Company: {job.get("company", "unknown")}
+Description: {desc}
 
 Return ONLY valid JSON in this format:
 {{ "score": number }}

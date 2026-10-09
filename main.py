@@ -2,16 +2,17 @@ from jobs import fetch_jobs
 from storage import save_job, is_already_applied
 from manual_input import add_manual_job
 from scraping.basic_scrape_jd import scrape_jd
-from scraping.utils import min_yoe_required, is_senior_role
+from scraping.utils import is_senior_role
 from resume_builder import build_resume
+from resume_models import ResumeStore
 import webbrowser
 
 from llm import LLM
 
 
 def load_resume():
-    with open("resume.txt", "r") as f:
-        return f.read()
+    store = ResumeStore.from_yaml("resume_store.yaml")
+    return store.to_text()
 
 
 def main(llm):
@@ -29,9 +30,10 @@ def main(llm):
                 break
     else:
         role = input("Enter the job role you are interested in: ")
-        jobs = fetch_jobs(role)
+        india = input("India jobs only? (Y/n): ").strip().lower()
+        jobs = fetch_jobs(role, india_only=india not in ("n", "no"))
 
-    max_jobs = 5
+    max_jobs = 50
     count = 0
 
     for job in jobs:
@@ -44,8 +46,12 @@ def main(llm):
         jd_text = job.get("description", "")
         if not jd_text or len(jd_text) < 100:
             try:
-                jd_text = scrape_jd(job["url"])
-                job["description"] = jd_text
+                scraped = scrape_jd(job["url"], llm=llm)
+                if scraped:
+                    job.update(
+                        {k: v for k, v in scraped.items() if v and v != "Unknown"}
+                    )
+                    jd_text = job.get("description", "")
             except Exception:
                 pass
 
@@ -55,7 +61,7 @@ def main(llm):
         #         print(f"  Skipping {job['title']} — requires {yoe}+ years experience")
         #         continue
 
-        if jd_text and is_senior_role(jd_text):
+        if jd_text and is_senior_role(jd_text, llm):
             print(f" Skipping {job['title']}, identified as senior role")
             continue
 
@@ -67,22 +73,30 @@ def main(llm):
             continue
 
         print("\n" + "=" * 50)
-        print(f"{job['title']} @ {job['company']}")
+        print(
+            f"{job['title']} @ {job['company']} Located in {job.get('location', 'Unknown')}"
+        )
         print(f"Score: {score}/10")
 
-        # Generate tailored resume PDF
-        if not company_name or company_name.lower() == "unknown":
-            company_name = input(
-                f'  Company name for "{job.get("title", "unknown")}": '
-            ).strip()
-            job["company"] = company_name
-        if jd_text and len(jd_text) > 100:
-            print("\n--- GENERATING TAILORED RESUME ---\n")
-            try:
-                pdf_path = build_resume(jd_text, company_name, llm)
-                print(f"\n📄 Tailored PDF: {pdf_path}")
-            except Exception as e:
-                print(f"⚠️ Resume generation failed: {e}")
+        print(
+            "  (No = skip PDF generation, but cover letter + save + open link still happen)"
+        )
+        generate_resume = (
+            input("  Generate tailored resume PDF? (Y/n): ").strip().lower()
+        )
+        if generate_resume not in ("n", "no"):
+            if not company_name or company_name.lower() == "unknown":
+                company_name = input(
+                    f'  Company name for "{job.get("title", "unknown")}": '
+                ).strip()
+                job["company"] = company_name
+            if jd_text and len(jd_text) > 100:
+                print("\n--- GENERATING TAILORED RESUME ---\n")
+                try:
+                    pdf_path = build_resume(jd_text, company_name, llm)
+                    print(f"\n📄 Tailored PDF: {pdf_path}")
+                except Exception as e:
+                    print(f"⚠️ Resume generation failed: {e}")
 
         result = llm.generate_application(resume, job)
 
@@ -127,5 +141,5 @@ def main(llm):
 
 
 if __name__ == "__main__":
-    llm = LLM(provider="openai", model="gpt-4.1-mini")
+    llm = LLM(provider="openrouter")
     main(llm)

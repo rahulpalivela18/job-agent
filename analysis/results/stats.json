@@ -1,0 +1,104 @@
+{
+  "dataset": {
+    "n_jobs": 35,
+    "statuses": {
+      "applied": 19,
+      "pending": 16
+    },
+    "n_distinct_titles": 31,
+    "n_companies": 18,
+    "top_companies": [
+      [
+        "gitlab",
+        7
+      ],
+      [
+        "airbnb",
+        4
+      ],
+      [
+        "openai",
+        3
+      ],
+      [
+        "Unknown",
+        2
+      ],
+      [
+        "Eightfold AI",
+        2
+      ],
+      [
+        "stripe",
+        2
+      ],
+      [
+        "Salesforce",
+        2
+      ],
+      [
+        "paypay",
+        2
+      ],
+      [
+        "glance",
+        2
+      ],
+      [
+        "Rippling",
+        1
+      ]
+    ],
+    "n_with_cover_letter": 35,
+    "n_with_fit_reason": 35
+  },
+  "scores": {
+    "n": 35,
+    "mean": 8.06,
+    "median": 8,
+    "stdev": 1.03,
+    "min": 6,
+    "max": 9,
+    "p95": 9,
+    "distribution": {
+      "6": 2,
+      "7": 11,
+      "8": 5,
+      "9": 17
+    }
+  },
+  "score_vs_status": {
+    "applied_n": 19,
+    "pending_n": 16,
+    "applied_mean": 8.11,
+    "pending_mean": 8.0,
+    "applied_median": 9,
+    "pending_median": 8.0
+  },
+  "personalization": {
+    "deduplicated_by_posting": true,
+    "n_unique_postings": 31,
+    "cover_letters": {
+      "n": 31,
+      "mean_len_chars": 376.4,
+      "pairwise_cosine_mean": 0.342,
+      "pairwise_cosine_stdev": 0.097,
+      "pairwise_cosine_min": 0.141,
+      "pairwise_cosine_max": 0.719
+    },
+    "fit_reasons": {
+      "n": 31,
+      "pairwise_cosine_mean": 0.212,
+      "pairwise_cosine_stdev": 0.099
+    }
+  },
+  "cost_model": {
+    "llm_calls_per_resume": 4,
+    "tokens_per_resume": 750,
+    "model": "gpt-4.1-mini",
+    "cost_per_resume_usd": 0.0006,
+    "total_calls": 140,
+    "total_tokens_est": 26250,
+    "total_cost_est_usd": 0.02
+  }
+}
